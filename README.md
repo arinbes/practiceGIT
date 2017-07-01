@@ -1,2 +1,2 @@
 # practiceGIT
-i'm reading proGit(Scott Shacon
+i'm reading proGit(Author Scott Chacon,Ben Straub)
